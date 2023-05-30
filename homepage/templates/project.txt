@@ -10,6 +10,12 @@
     <hr>
 
     <div class="text-big text-gray text-center">
+        <p>{{technologies}}</p>
+    </div>
+
+    <hr>
+
+    <div class="text-big text-gray text-center">
         Website: <a href="{{website}}">{{website}}</a><br />
         GitHub: <a href="{{github}}">{{github}}</a><br />
     </div>
