@@ -1,0 +1,16 @@
+<div class="container project text-center">
+    <h1 class="text-white">{{title}}</h1>
+
+    <hr>
+
+    <div class="text-big text-gray text-center">
+        <p>{{description}}</p>
+    </div>
+    
+    <hr>
+
+    <div class="text-big text-gray text-center">
+        Website: <a href="{{website}}">{{website}}</a><br />
+        GitHub: <a href="{{github}}">{{github}}</a><br />
+    </div>
+</div>

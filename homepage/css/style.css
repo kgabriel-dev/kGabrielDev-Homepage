@@ -1,6 +1,6 @@
 html {
     height: 100%;
-    background-image: url('https://kgabriel.dev/index/img/bp.png');
+    background-image: url('https://kgabriel.dev/homepage/img/bp.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -31,4 +31,10 @@ html {
     margin: 1em;
     padding: .5em;
     max-width: 30%;
+    min-width: 180px;
+}
+
+a, a:hover, a:visited {
+    color: inherit;
+    text-decoration: underline;
 }
