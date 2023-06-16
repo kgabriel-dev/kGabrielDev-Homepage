@@ -32,7 +32,7 @@ async function parseProjects() {
 }
 
 async function readTemplate() {
-    const url = window.location.href + '/homepage/templates/project.txt';
+    const url = window.location.href + '/templates/project.txt';
 
     await fetch(url)
         .then(response => response.text())
