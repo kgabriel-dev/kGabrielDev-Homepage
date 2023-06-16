@@ -9,12 +9,14 @@
     {
         "title": "Pyramid Display",
         "description": "Create the illusion of holograms using the Pepper's Ghost technique and this website.",
+        "technologies": ["Angular", "TypeScript"],
         "website": "https://hologram.kgabriel.dev",
         "github": "https://github.com/kgabriel-dev/PyramidDisplay"
     },
     {
         "title": "Homepage",
         "description": "This is the webpage you're currently on. It's a simple homepage with links to my projects.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
         "website": "https://kgabriel.dev",
         "github": "https://github.com/kgabriel-dev/kGabrielDev-Homepage"
     }
